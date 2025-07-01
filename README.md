@@ -76,4 +76,6 @@ sales-pulse-india-edition/
 
 ## 📁 Output
 
+![Image](https://github.com/user-attachments/assets/03a1f6dc-deed-46d7-b4fc-8d98695621e7)
+
 
